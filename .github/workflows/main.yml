@@ -30,4 +30,4 @@ jobs:
 
       - name: Build Electron App
         run: |
-          CI=false npm run package
+          CI=false npm run build
