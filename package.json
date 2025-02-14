@@ -7,7 +7,7 @@
   "icon": "public/img/white.png",
   "private": true,
   "main": "build/electron.js",
-  "repository": "https://github.com/DegenSoft/Soft_test_release",
+  "repository": "https://github.com/DegenSoft/Encryptor",
   "dependencies": {
     "@material/web": "1.0.0",
     "@testing-library/jest-dom": "5.17.0",
